@@ -1,0 +1,200 @@
+Campaign ID,Campaign Name,Product Category,Customer Type,Cost,Cost per Click,Orders,Avg Order Value
+73852,ADILS,Sofas,Returning Customer,16775,0.32,5950,800.8
+59321,ALGOT,Beds,Returning Customer,14042.7,0.23,5123,505
+55362,ASKHOLMEN,Tables,Returning Customer,12284.379,0.20,4455,249.6
+34586,BESTVÖ,Chairs,Returning Customer,16307.454,0.59,4397,18
+45963,BILLY,Storage,Returning Customer,9558.98,0.89,4244,54
+84365,BISSA,Shelving units,Returning Customer,11394.818,0.38,4202,148.5
+57236,BLOMSTER,Cabinets,Returning Customer,5955.586,0.51,3827,125.8
+61245,BOKSEL,Desks,Returning Customer,10754.901,0.52,3510,45
+93615,BOSNVNS,Wardrobes,Returning Customer,14842.82,0.79,3492,353.6
+67139,BRIMNES,Dressers,Returning Customer,14374.504,0.84,3367,47
+59134,BROR,Bookcases,Returning Customer,9857.952,0.95,3326,274.5
+41786,BRUSALI,TV stands,Returning Customer,4906.98,0.24,3101,12
+42516,BUSKBO,Dining sets,Returning Customer,6282.8,0.25,2966,77
+42576,EKEDALEN,Coffee tables,Returning Customer,10947.65,0.60,2812,69
+89326,EKET,Benches,Returning Customer,12257.772,0.69,2785,59
+75891,EKTORP,Ottomans,Returning Customer,10771.95,0.94,2722,55
+57412,FARLOV,Sideboards,Returning Customer,8202.774,0.55,2706,73
+68143,FJVNDRANDE,Nightstands,Returning Customer,8638.858,0.78,2701,71
+26549,FJVNLLBO,Bar stools,Returning Customer,5771.63,0.20,2671,35
+35724,FLINTAN,Outdoor furniture,Returning Customer,7157.172,0.96,2571,100
+41579,FLISAT,Sofas,Returning Customer,7911.171,0.15,2504,1416.8
+24189,FVNRLVNV,Beds,Returning Customer,11316.375,0.57,2474,606
+45671,GALANT,Tables,Returning Customer,5962.374,0.20,2384,144.3
+71946,GERSBY,Chairs,Returning Customer,10280.178,0.14,2345,76
+38654,GRUNDTAL,Storage,Returning Customer,4240.262,0.78,2334,70
+91573,GRVNNLID,Shelving units,Returning Customer,11598.609,0.35,2331,252
+38576,HAVSTA,Cabinets,Returning Customer,5466.354,0.39,2326,318.2
+43819,HEKTAR,Desks,Returning Customer,3697.097,0.17,2202,121.5
+67724,HEMNES,Wardrobes,Returning Customer,5251.172,0.12,2099,228.8
+52786,HENRIKSDAL,Dressers,Returning Customer,6694.36,0.38,2017,79
+54926,HINDVN,Bookcases,Returning Customer,5616.975,0.95,2012,324
+93651,HVNNSBVNR,TV stands,Returning Customer,9178.268,0.39,1982,62
+28574,INGATORP,Dining sets,Returning Customer,10461.265,0.32,1889,83
+67139,INGOLF,Coffee tables,Returning Customer,4475.913,0.45,1880,52
+56248,IVAR,Benches,Returning Customer,3271.52,0.62,1871,17
+37951,KALLAX,Ottomans,Returning Customer,7617.096,0.63,1839,46
+89157,KARLSTAD,Sideboards,Returning Customer,5902.832,0.69,1835,19
+94356,KIVIK,Nightstands,Returning Customer,5265.66,0.13,1822,8
+92847,KLIPPAN,Bar stools,Returning Customer,3605.888,0.81,1803,51
+89241,KNOPPARP,Outdoor furniture,Returning Customer,3427.468,0.88,1801,91
+73856,LACK,Sofas,Returning Customer,10684.002,0.99,1791,1062.6
+51746,LANDSKRONA,Beds,Returning Customer,4294.136,0.24,1755,626.2
+68741,LANKMOJ,Tables,Returning Customer,4288.385,0.11,1722,19.5
+64185,LEIRVIK,Chairs,Returning Customer,13196.16,0.33,1712,70
+38975,LEKSVIK,Storage,Returning Customer,11049.372,0.56,1682,82
+89243,LIATORP,Shelving units,Returning Customer,7192.68,0.33,1682,414
+29578,LIDHULT,Cabinets,Returning Customer,12969.883,0.31,1664,547.6
+69724,LINNMON,Desks,Returning Customer,11377.104,0.66,1659,238.5
+46589,LISABO,Wardrobes,Returning Customer,11937.978,0.29,1645,156
+92864,LIXHULT,Dressers,Returning Customer,7015.58,0.66,1630,62
+87246,LVNNSET,Bookcases,Returning Customer,7850.349,0.92,1622,126
+49685,LVNVBACKEN,TV stands,Returning Customer,9162.522,0.56,1621,64
+61495,LVÖNGFJVNLL,Dining sets,Returning Customer,8491.162,0.45,1619,58
+31584,MALM,Coffee tables,Returning Customer,8711.024,0.22,1611,65
+67951,MELLTORP,Benches,Returning Customer,5178.145,0.25,1566,14
+72134,MICKE,Ottomans,Returning Customer,10617.524,0.11,1524,16
+59712,MUSKEN,Sideboards,Returning Customer,9484.014,0.60,1515,66
+61934,MVNRBYLVÖNGA,Nightstands,Returning Customer,3258.312,0.89,1505,70
+31579,MVÖLA,Bar stools,Returning Customer,9078.33,0.20,1472,79
+72586,NORDEN,Outdoor furniture,Returning Customer,12065.607,0.31,1434,94
+59614,NORDKISA,Sofas,Returning Customer,3837.6,0.85,1432,200.2
+51697,NORDLI,Beds,Returning Customer,5798.261,0.77,1421,80.8
+76159,NORDMVNRKE,Tables,Returning Customer,4468.45,0.19,1419,93.6
+53976,NYHAMN,Chairs,Returning Customer,3802.033,0.23,1412,7
+46825,ODGER,Storage,Returning Customer,7054.913,0.77,1412,45
+42671,OMLOPP,Shelving units,Returning Customer,12340.34,0.97,1395,126
+41753,PAX,Cabinets,Returning Customer,11160.828,0.14,1383,96.2
+65372,POVNNG,Desks,Returning Customer,11503.765,0.34,1333,135
+58324,RIGGA,Wardrobes,Returning Customer,6715.702,0.97,1326,384.8
+61537,RVNDTOPPA,Dressers,Returning Customer,6713.84,0.13,1297,53
+71245,SKOG,Bookcases,Returning Customer,12117.021,0.31,1280,171
+81457,RVOVIS,TV stands,Returning Customer,4736.32,0.29,1279,90
+52467,RVÖGRUND,Dining sets,Returning Customer,4152.956,0.54,1274,52
+52786,RVÖSKOG,Coffee tables,Returning Customer,4102.065,0.16,1273,80
+69157,SINNERLIG,Benches,Returning Customer,10261.119,0.60,1270,99
+38654,SKVÖDIS,Ottomans,Returning Customer,11942.478,0.35,1247,51
+45987,SMVÖSTAD,Sideboards,Returning Customer,3462.537,0.91,1247,78
+67428,SONGESAND,Nightstands,Returning Customer,10490.28,0.36,1243,45
+81457,STEFAN,Bar stools,Returning Customer,4392.18,0.93,1224,11
+58741,STOCKHOLM,Outdoor furniture,Returning Customer,10718.84,0.22,1222,9
+37462,STOCKSUND,Sofas,Returning Customer,9860.13,0.75,1172,1324.4
+61537,STRANDMON,Beds,Returning Customer,8251.938,0.18,1166,989.8
+93642,SVALNVNS,Tables,Returning Customer,6190.125,0.68,1144,132.6
+42786,SVALSTA,Chairs,Returning Customer,10418.976,0.74,1143,9
+76913,SVNDERHAMN,Storage,Returning Customer,8367.558,0.23,1112,100
+93456,TARVA,Shelving units,Returning Customer,2480.088,0.41,1097,216
+42576,TJENA,Cabinets,Returning Customer,8201.345,0.62,1077,111
+67931,TROFAST,Desks,Returning Customer,8333.094,0.92,1054,247.5
+56197,TRYSIL,Wardrobes,Returning Customer,3737.293,0.25,1042,208
+23746,TVNLLEVIK,Dressers,Returning Customer,6181.38,0.86,1031,90
+76924,TVNRNABY,Bookcases,Returning Customer,5918.15,0.55,1027,270
+89267,VALLENTUNA,TV stands,Returning Customer,11033.169,0.92,1017,80
+94368,VEDBO,Dining sets,Returning Customer,5360.115,0.81,1012,68
+23156,VIMLE,Coffee tables,Returning Customer,6995.302,0.19,1004,99
+59176,VITS,Benches,Returning Customer,6770.995,0.83,938,69
+54126,GIS,Ottomans,Returning Customer,5150.607,0.16,912,20
+43671,VMEZ,Sideboards,Returning Customer,2562.2,0.12,881,63
+41753,YERLIG,Nightstands,Returning Customer,3399.354,0.91,881,63
+43876,RONNIG,Bar stools,Returning Customer,5131.84,0.13,876,32
+42153,ADILS,Sofas,New Customer,2828.928,0.78,825,385
+91546,ALGOT,Beds,New Customer,9345.024,0.55,822,272.7
+72356,ASKHOLMEN,Tables,New Customer,6267.19,0.57,808,81.9
+54968,BESTVÖ,Chairs,New Customer,9262.539,0.76,775,88
+42153,BILLY,Storage,New Customer,9037.56,4.30,740,42
+49685,BISSA,Shelving units,New Customer,8514.792,0.82,733,396
+65392,BLOMSTER,Cabinets,New Customer,6313.356,0.53,732,717.8
+69157,BOKSEL,Desks,New Customer,9270.963,0.94,717,157.5
+24597,BOSNVNS,Wardrobes,New Customer,2352.9,6.95,716,317.2
+75891,BRIMNES,Dressers,New Customer,7034.708,1.09,715,44
+35671,BROR,Bookcases,New Customer,5951.504,2.41,705,256.5
+59712,BRUSALI,TV stands,New Customer,10040.16,0.28,700,34
+93168,BUSKBO,Dining sets,New Customer,4055.61,1.13,692,76
+26538,EKEDALEN,Coffee tables,New Customer,3567.779,1.59,691,71
+84691,EKET,Benches,New Customer,2954.736,2.14,687,50
+65179,EKTORP,Ottomans,New Customer,4323.39,1.56,676,32
+84791,FARLOV,Sideboards,New Customer,4896.45,0.77,675,73
+92468,FJVNDRANDE,Nightstands,New Customer,4788.72,2.64,673,48
+65942,FJVNLLBO,Bar stools,New Customer,7909.431,0.62,673,49
+36541,FLINTAN,Outdoor furniture,New Customer,7727.096,2.06,660,57
+56894,FLISAT,Sofas,New Customer,7740.432,0.98,651,1463
+89645,FVNRLVNV,Beds,New Customer,7341.792,0.66,648,60.6
+75864,GALANT,Tables,New Customer,9564.2,1.11,636,120.9
+62537,GERSBY,Chairs,New Customer,2714.046,0.28,635,37
+73156,GRUNDTAL,Storage,New Customer,6839.94,1.08,624,73
+72641,GRVNNLID,Shelving units,New Customer,5608.174,0.41,623,252
+25867,HAVSTA,Cabinets,New Customer,7618.52,1.49,622,473.6
+43876,HEKTAR,Desks,New Customer,5382.914,0.20,604,85.5
+54968,HEMNES,Wardrobes,New Customer,2647.525,0.31,601,348.4
+92847,HENRIKSDAL,Dressers,New Customer,9604.028,0.63,600,23
+46382,HINDVN,Bookcases,New Customer,6690.16,1.21,595,265.5
+38765,HVNNSBVNR,TV stands,New Customer,8433.04,0.71,594,43
+23468,INGATORP,Dining sets,New Customer,1898.1,0.33,592,77
+67953,INGOLF,Coffee tables,New Customer,2079.77,0.66,581,82
+56197,IVAR,Benches,New Customer,2304.336,1.65,561,66
+94257,KALLAX,Ottomans,New Customer,2263.08,3.88,550,65
+62847,KARLSTAD,Sideboards,New Customer,9392,1.60,540,25
+38756,KIVIK,Nightstands,New Customer,6213.648,0.18,539,38
+24786,KLIPPAN,Bar stools,New Customer,3152.043,1.16,514,67
+36529,KNOPPARP,Outdoor furniture,New Customer,6143.23,0.95,504,41
+68159,LACK,Sofas,New Customer,1906.736,4.59,497,1001
+76894,LANDSKRONA,Beds,New Customer,3007.125,0.46,497,686.8
+54687,LANKMOJ,Tables,New Customer,5171.904,0.20,495,347.1
+82357,LEIRVIK,Chairs,New Customer,2277.745,0.51,480,7
+37419,LEKSVIK,Storage,New Customer,4896.654,0.98,474,84
+94362,LIATORP,Shelving units,New Customer,7263.15,0.35,473,108
+52367,LIDHULT,Cabinets,New Customer,8211.528,0.61,471,266.4
+93462,LINNMON,Desks,New Customer,7408.976,0.70,464,274.5
+89136,LISABO,Wardrobes,New Customer,2573.85,0.81,463,488.8
+67642,LIXHULT,Dressers,New Customer,4267.75,2.20,462,72
+54267,LVNNSET,Bookcases,New Customer,7903.36,1.05,457,207
+89764,LVNVBACKEN,TV stands,New Customer,5390.1,0.99,456,81
+42819,LVÖNGFJVNLL,Dining sets,New Customer,1777.23,2.41,455,67
+58763,MALM,Coffee tables,New Customer,8343.532,0.23,455,42
+37419,MELLTORP,Benches,New Customer,7259.084,0.33,448,33
+39517,MICKE,Ottomans,New Customer,4402.3,0.12,445,40
+56148,MUSKEN,Sideboards,New Customer,4161.85,3.75,445,20
+59142,MVNRBYLVÖNGA,Nightstands,New Customer,1762.776,1.61,445,55
+68591,MVÖLA,Bar stools,New Customer,3826.27,0.42,439,76
+76924,NORDEN,Outdoor furniture,New Customer,6968.408,1.39,439,48
+73865,NORDKISA,Sofas,New Customer,5519.196,3.23,437,1108.8
+57293,NORDLI,Beds,New Customer,5932.896,0.87,411,979.7
+51647,NORDMVNRKE,Tables,New Customer,2414.037,0.22,410,113.1
+73641,NYHAMN,Chairs,New Customer,3742.704,0.37,408,10
+94157,ODGER,Storage,New Customer,6591.9,1.68,406,96
+95487,OMLOPP,Shelving units,New Customer,3513.216,1.30,404,270
+64578,PAX,Cabinets,New Customer,3642.256,0.17,399,466.2
+54926,POVNNG,Desks,New Customer,7563.64,1.16,398,261
+73156,RIGGA,Wardrobes,New Customer,6266.172,3.68,392,280.8
+93872,RVNDTOPPA,Dressers,New Customer,6015.144,0.33,388,89
+42315,SKOG,Bookcases,New Customer,2667.072,0.87,388,432
+91957,RVOVIS,TV stands,New Customer,6945.54,2.21,387,22
+31685,RVÖGRUND,Dining sets,New Customer,6960.954,0.97,386,85
+91854,RVÖSKOG,Coffee tables,New Customer,6437.548,0.23,379,86
+45126,SINNERLIG,Benches,New Customer,3028.99,1.23,373,12
+28574,SKVÖDIS,Ottomans,New Customer,2584.575,0.76,369,85
+65931,SMVÖSTAD,Sideboards,New Customer,6713.662,4.62,362,5
+76135,SONGESAND,Nightstands,New Customer,6281.712,0.42,362,56
+41985,STEFAN,Bar stools,New Customer,4629.359,1.41,358,23
+93642,STOCKHOLM,Outdoor furniture,New Customer,4996.964,0.26,352,41
+91487,STOCKSUND,Sofas,New Customer,3030.084,1.89,349,1432.2
+93651,STRANDMON,Beds,New Customer,4053.595,0.29,343,313.1
+49375,SVALNVNS,Tables,New Customer,1466.964,1.00,343,101.4
+72345,SVALSTA,Chairs,New Customer,5648.434,3.73,339,14
+71234,SVNDERHAMN,Storage,New Customer,3265.605,0.32,331,81
+89653,TARVA,Shelving units,New Customer,4840.308,1.00,331,297
+37841,TJENA,Cabinets,New Customer,2793.903,0.81,330,266.4
+57412,TROFAST,Desks,New Customer,142.496,1.78,313,72
+733,TRYSIL,Wardrobes,New Customer,161.624,0.86,261,135.2
+736,TVNLLEVIK,Dressers,New Customer,121.32,2.19,277,57
+739,TVNRNABY,Bookcases,New Customer,73.03,0.60,277,49.5
+742,VALLENTUNA,TV stands,New Customer,129.808,2.53,278,53
+745,VEDBO,Dining sets,New Customer,172.791,0.84,279,87
+748,VIMLE,Coffee tables,New Customer,75.582,0.40,293,78
+751,VITS,Benches,New Customer,278.018,1.06,295,59
+754,GIS,Ottomans,New Customer,59.472,0.55,301,75
+757,VMEZ,Sideboards,New Customer,251.134,0.65,304,84
+760,YERLIG,Nightstands,New Customer,195.672,3.95,308,21
+719,RONNIG,Bar stools,New Customer,121.666,0.28,308,95
+43671,BUSKBO,Bar stools,New Customer,200.412,2.02,310,74

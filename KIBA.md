@@ -1,0 +1,3 @@
+#KIBA
+
+KIBA is an e-commerce furniture platform. This dataset contains KIBA’s 2023 revenue and costs from their online advertising campaigns. The goal of this analysis is to improve its advertising profitability for the next year, 2024. Specifically, the project aims to identify KIBA’s most profitable product categories and the top-performing products for new customer acquisition. The analysis will also provide data-driven recommendations for future advertising budget allocations.
